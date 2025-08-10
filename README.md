@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Aya , a curious and ambitious Systems Engineering student specializing in IMSI (yeah, it’s a mouthful 🤓). 
+I’m Aya , a curious and ambitious Systems Engineering student.
 I’m on a mission to become a web developer, but honestly, I’m open to pretty much all things tech — from coding magic to everything digital and beyond!
 
 ## What I’m up to 🎯
