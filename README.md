@@ -7,7 +7,7 @@ I’m on a mission to become a web developer, but honestly, I’m open to pretty
 
 - Learning web development
 - already familiar with c ( basics matter !🤥)
-- Exploring programming languages like java 
+- Exploring programming languages 
 - Diving into algorithms and problem-solving (because who doesn’t love a good brain teaser?)  
 
 ## Current Projects 🚧
